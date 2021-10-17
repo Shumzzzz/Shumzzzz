@@ -1,4 +1,4 @@
-### Hi there i'a 👋
+![Header](https://github.com/Shumzzzz/Shumzzzz/blob/main/assets/Frame%2015.png)
 
 <!--
 **Shumzzzz/Shumzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

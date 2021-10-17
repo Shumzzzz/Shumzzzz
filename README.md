@@ -10,12 +10,17 @@ https://shumzzzz.github.io
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-f5f5f5?style=for-the-badge&logo=BOOTSTRAP)
 ![SASS](https://img.shields.io/badge/-SASS-f5f5f5?style=for-the-badge&logo=SASS)
 
-## 📫 My contacts:
-https://t.me/deadshumz
-shumzz@bk.ru
+## ✉️ My contacts:
+[![TELEGRAM](https://img.shields.io/badge/-@DEADHUMZ-f5f5f5?style=for-the-badge&logo=TELEGRAM)](https://t.me/deadshumz)
+[![MAIL](https://img.shields.io/badge/-📪shumzz@bk.ru-f5f5f5?style=for-the-badge)](mailto:shumzz@bk.ru)
 
-## Count of my visitors
+## 💻 My Activity
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shumzzzz)](https://github.com/Shumzzzz)
+
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Shumzzzz)
+
 
 <!--
 **Shumzzzz/Shumzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

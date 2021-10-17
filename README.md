@@ -1,4 +1,5 @@
-<img src="relative/path/in/repository/to/image.svghttps://github.com/Shumzzzz/Shumzzzz/blob/main/assets/Frame%2015.png"/>
+<img src="https://raw.githubusercontent.com/Shumzzzz/Shumzzzz/main/assets/Frame%2015.png"/>
+
 ## 👋 Hi there I'am shumz, front-end and a bit of back-end developer!
 👀 Here is my website!
 https://shumzzzz.github.io <br>

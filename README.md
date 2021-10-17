@@ -3,12 +3,12 @@
 Here is my website! 👀
 https://shumzzzz.github.io
 ## My languages & Tools! 🔥
-![HTML](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3&logoColor=23A3FF)
-![JS](https://img.shields.io/badge/-JAVASCRIPT-000?style=for-the-badge&logo=Javascript)
-![PYTHON](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
-![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-000?style=for-the-badge&logo=BOOTSTRAP)
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=SASS)
+![HTML](https://img.shields.io/badge/-HTML5-f0f0f0?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-f0f0f0?style=for-the-badge&logo=CSS3&logoColor=23A3FF)
+![JS](https://img.shields.io/badge/-JAVASCRIPT-f0f0f0?style=for-the-badge&logo=Javascript)
+![PYTHON](https://img.shields.io/badge/-Python-f0f0f0?style=for-the-badge&logo=Python)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-f0f0f0?style=for-the-badge&logo=BOOTSTRAP)
+![SASS](https://img.shields.io/badge/-SASS-f0f0f0?style=for-the-badge&logo=SASS)
 <!--
 **Shumzzzz/Shumzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

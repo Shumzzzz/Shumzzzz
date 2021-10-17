@@ -1,4 +1,5 @@
 ![Header](https://github.com/Shumzzzz/Shumzzzz/blob/main/assets/Frame%2015.png)
+## Hi there I'am shumz, front-end and a bit of back-end developer! 👋
 
 <!--
 **Shumzzzz/Shumzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

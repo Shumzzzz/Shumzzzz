@@ -6,7 +6,8 @@ https://shumzzzz.github.io <br>
 ❤️ Follow me! <br>
 ![GitHub followers](https://img.shields.io/github/followers/Shumzzzz?style=social)
 
-## 🔥 My languages & Tools! 
+## 🔥 My languages & Tools!
+![PHP](https://img.shields.io/badge/-PHP-f5f5f5?style=for-the-badge&logo=PHP)
 ![HTML](https://img.shields.io/badge/-HTML5-f5f5f5?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-f5f5f5?style=for-the-badge&logo=CSS3&logoColor=23A3FF)
 ![JS](https://img.shields.io/badge/-JAVASCRIPT-f5f5f5?style=for-the-badge&logo=Javascript)

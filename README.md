@@ -20,8 +20,8 @@ https://shumzzzz.github.io <br>
 [![MAIL](https://img.shields.io/badge/-📪shumzz@bk.ru-f5f5f5?style=for-the-badge)](mailto:shumzz@bk.ru)
 
 ## 💻 My Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shumzzzz)](https://github.com/deadshumz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shumzzzz&layout=compact)](https://github.com/deadshumz)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadshumz)](https://github.com/deadshumz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshumz&layout=compact)](https://github.com/deadshumz)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/deadshumz)

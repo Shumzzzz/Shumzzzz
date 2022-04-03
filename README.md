@@ -14,7 +14,7 @@ https://shumzzzz.github.io <br>
 ![PYTHON](https://img.shields.io/badge/-Python-f5f5f5?style=for-the-badge&logo=Python)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-f5f5f5?style=for-the-badge&logo=BOOTSTRAP)
 ![SASS](https://img.shields.io/badge/-SASS-f5f5f5?style=for-the-badge&logo=SASS)
-![JAVA](https://img.shields.io/badge/-JAVA-f5f5f5?style=for-the-badge&logo=JAVA)
+![JAVA](https://img.shields.io/badge/-JAVA-000000?style=for-the-badge&logo=JAVA)
 
 ## ✉️ My contacts:
 [![TELEGRAM](https://img.shields.io/badge/-@DEADHUMZ-f5f5f5?style=for-the-badge&logo=TELEGRAM)](https://t.me/deadshumz)

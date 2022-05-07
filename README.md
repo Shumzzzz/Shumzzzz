@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Shumzzzz/Shumzzzz/main/assets/Frame%2015.png"/>
 
-## 👋 Hi there I'am shumz, front-end and a bit of back-end developer!
+## 👋 Hi there I'am shumz, fullstack web-developer!
 👀 Here is my website!
 https://shumzzzz.github.io <br>
 ❤️ Follow me! <br>

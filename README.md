@@ -23,7 +23,7 @@ https://shumzzzz.github.io <br>
 ## 💻 My Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadshumz)](https://github.com/deadshumz)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshumz&layout=compact)](https://github.com/deadshumz)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deadshumz&custom_title=My%20activity!%20&hide_border=false)](https://github.com/deadshumz)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deadshumz&custom_title=My%20activity!%20&hide_border=true&theme=github)](https://github.com/deadshumz)
 
 
 

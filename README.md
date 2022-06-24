@@ -7,13 +7,14 @@ https://shumzzzz.github.io <br>
 ![GitHub followers](https://img.shields.io/github/followers/deadshumz?style=social)
 
 ## 🔥 My languages & Tools!
-![PHP](https://img.shields.io/badge/-PHP-f5f5f5?style=for-the-badge&logo=PHP)
-![HTML](https://img.shields.io/badge/-HTML5-f5f5f5?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-f5f5f5?style=for-the-badge&logo=CSS3&logoColor=23A3FF)
-![JS](https://img.shields.io/badge/-JAVASCRIPT-f5f5f5?style=for-the-badge&logo=Javascript)
-![PYTHON](https://img.shields.io/badge/-Python-f5f5f5?style=for-the-badge&logo=Python)
-![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-f5f5f5?style=for-the-badge&logo=BOOTSTRAP)
-![SASS](https://img.shields.io/badge/-SASS-f5f5f5?style=for-the-badge&logo=SASS)
+![PYTHON](https://img.shields.io/badge/-Python-FFFFFF?style=for-the-badge&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-EEEEEE?style=for-the-badge&logo=PHP)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-EEEEEE?style=for-the-badge&logo=BOOTSTRAP)
+![HTML](https://img.shields.io/badge/-HTML5-CCCCCC?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-CCCCCC?style=for-the-badge&logo=CSS3&logoColor=23A3FF)
+![SASS](https://img.shields.io/badge/-SASS-CCCCCC?style=for-the-badge&logo=SASS)
+![JS](https://img.shields.io/badge/-JAVASCRIPT-333333?style=for-the-badge&logo=Javascript)
+![SASS](https://img.shields.io/badge/-SASS-333333?style=for-the-badge&logo=DJANGO)
 
 ## ✉️ My contacts:
 [![TELEGRAM](https://img.shields.io/badge/-@DEADHUMZ-f5f5f5?style=for-the-badge&logo=TELEGRAM)](https://t.me/deadshumz)

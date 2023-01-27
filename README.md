@@ -14,7 +14,7 @@ https://shumzzzz.github.io <br>
 ![CSS](https://img.shields.io/badge/-CSS-CCCCCC?style=for-the-badge&logo=CSS3&logoColor=23A3FF)
 ![SASS](https://img.shields.io/badge/-SASS-CCCCCC?style=for-the-badge&logo=SASS)
 ![JS](https://img.shields.io/badge/-JAVASCRIPT-333333?style=for-the-badge&logo=Javascript)
-![SASS](https://img.shields.io/badge/-SASS-333333?style=for-the-badge&logo=DJANGO)
+![DJANGO](https://img.shields.io/badge/-SASS-333333?style=for-the-badge&logo=DJANGO)
 
 ## ✉️ My contacts:
 [![TELEGRAM](https://img.shields.io/badge/-@DEADHUMZ-f5f5f5?style=for-the-badge&logo=TELEGRAM)](https://t.me/deadshumz)

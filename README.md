@@ -1,5 +1,5 @@
 ## 👋 Welcome
-```
+```js
 const deadshumz = {
   code: [Javascript, Typescript, HTML, CSS, Python, C++],
   tools: [Git, Node],

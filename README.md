@@ -1,4 +1,10 @@
-
+## 👋 Welcome
+```
+const deadshumz = {
+  code: [Javascript, Typescript, HTML, CSS, Python, C++],
+  tools: [Git, Node],
+}
+```
 ## 💻 My Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadshumz&show_icons=true&theme=graywhite)
 

@@ -6,8 +6,6 @@ const deadshumz = {
 }
 ```
 ## 💻 My Statistics
-![deadshumz's Stats](https://github-readme-stats.vercel.app/api?username=deadshumz&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
-![deadshumz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deadshumz&theme=graywhite&hide_border=false)
 ![deadshumz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshumz&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
 <!--
 **Shumzzzz/Shumzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

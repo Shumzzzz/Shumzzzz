@@ -1,9 +1,9 @@
 ## 👋 Welcome
-```js
-const deadshumz = {
-  code: [Javascript, Typescript, HTML, CSS, Python, C++],
-  tools: [Git, Node],
-}
+```python
+class deadshumz:
+    stack: List = ["Python", "JS/TS", "HTML+CSS"]
+    libs: List = ["FastAPI", "SQLAlchemy", "Pydantic", "Alembic"]
+    tools: List = ["Git", "Docker"]
 ```
 ## 💻 My Statistics
 ![deadshumz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshumz&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
